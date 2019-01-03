@@ -6,5 +6,7 @@ This is a demonstration git repository.
 
 Tatooed banh mi bespoke
 
-Even more ipsum
+## Website Contents
+
+1. index.html
 
